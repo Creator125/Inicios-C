@@ -1,0 +1,1 @@
+Estos son practicas y ejecricio en el lenguage C
