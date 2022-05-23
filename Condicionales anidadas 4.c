@@ -7,6 +7,8 @@ según el porcentaje de respuestas correctas que ha obtenido, y sabiendo que:
 	Nivel medio:	Porcentaje>=75% y <90%.
 	Nivel regular:	Porcentaje>=50% y <75%.
 	Fuera de nivel:	Porcentaje<50%.
+
+    https://www.youtube.com/watch?v=Cs2_ZC_bfaQ&list=PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV&index=19
 */
 
 #include <stdio.h>
