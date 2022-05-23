@@ -25,7 +25,7 @@ Link de los curso:
 
 - Lista de reprodución de curso de C de Progamcion ATS: https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6
 
-- Lista de reprodución de curso de C de diego moisset de espanes:  https://www.youtube.com/playlist?list=PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV
+- Lista de reprodución de curso de C de Diego Moisset de Espanes:  https://www.youtube.com/playlist?list=PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV
 
 
 **Investigaciones adicionales para profucdizar temas especificos:**
