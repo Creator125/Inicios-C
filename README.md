@@ -28,7 +28,7 @@ Link de los curso:
 - Lista de reprodución de curso de C de Diego Moisset de Espanes:  https://www.youtube.com/playlist?list=PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV
 
 
-**Investigaciones adicionales para profucdizar temas especificos:**
+**Investigaciones adicionales para profundizar temas especificos:**
 
  - La funcion strcmp(): 
 
