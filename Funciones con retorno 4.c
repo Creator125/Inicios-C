@@ -37,9 +37,9 @@ int main() //Funcion principal
     if (retornarSuperficie(l1,l2) == retornarSuperficie(l3,l4)){ //Vericancando el rectangulo con mayor superficie
         printf("\nLos rectangulos tienen superficies iguales\n");
     }else if (retornarSuperficie(l1,l2) > retornarSuperficie(l3,l4)){
-        printf("El primer rectangulo tiene mayor superficie\n");
+        printf("\nEl primer rectangulo tiene mayor superficie\n");
     }else{
-        printf("El segundo rectangulo tiene mayor superficie es %i",l2);
+        printf("\nEl segundo rectangulo tiene mayor superficie\n");
     }
 
     return 0;
