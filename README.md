@@ -23,6 +23,8 @@ Estos son practicas autodidactas y ejecricio en el lenguage C cuyo propocito de 
 
 - W3school: https://www.w3schools.com/c/index.php
 
+- C tutorialesprogramacionya: https://www.tutorialesprogramacionya.com/cya/index.php?inicio=60
+
 
 
 ## Investigaciones adicionales:
