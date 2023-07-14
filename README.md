@@ -33,7 +33,7 @@ Estos son practicas autodidactas y ejecricio en el lenguage C cuyo propocito de 
 
 - https://idoc.pub/documents/palabras-reservadas-en-lenguaje-c-1d472xgdqyn2
 
-##### Especicades de formato
+##### Espeficadores de formato
 
 - https://altamiraweb.net/especificadores-de-formato-en-c/
 
@@ -56,6 +56,9 @@ Estos son practicas autodidactas y ejecricio en el lenguage C cuyo propocito de 
 ##### Booleanos
 
 - https://parzibyte.me/blog/2018/11/12/booleanos-en-c/
+
+##### Gestion de archivos
+- https://disenowebakus.net/ficheros.php
 
 
 ## Tutoriales o cursos:
